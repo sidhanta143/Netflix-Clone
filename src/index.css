@@ -1,0 +1,89 @@
+
+*{
+  border: 0;
+  margin: 0;
+}
+body{
+  background-image: url("https://wallpapers.com/images/file/netflix-background-gs7hjuwvv2g0e9fj.jpg");
+
+}
+#image{
+  margin-left: 20px;
+  height: 90px;
+  width: 100px;
+}
+.container{
+  height: 150px;
+  /* background-color: aqua; */
+ justify-content: space-between;
+ align-items: center;
+ display: flex;
+}
+button:hover{
+background-color:  rgb(210, 73, 73);
+cursor: pointer; 
+  
+
+}
+#select,button{
+  border-radius: 5px;
+  padding: 10px;
+  
+  
+ 
+
+}
+#select{
+margin-left: 75%;
+height: 50px;
+width: 120px;
+font-size: 15px;
+background-color:black; 
+color: white;
+}
+button{
+  margin-right: 10px;
+  height: 50px;
+width: 120px;
+background-color: rgb(249, 36, 36);
+color: white;
+font-size: 20px;
+}
+
+.box{
+  color: white;
+margin-left: 35%;
+margin-top: 12%;
+font-size:larger;
+
+}
+h1{
+  font-size: 50px;
+}
+#h31{
+  margin-left: 120px;
+}
+#h32{
+  font-size: 23px;
+}
+#but{
+  /* background-color: aqua; */
+  height: 70px;
+  width: 200px;
+  border-radius: 4px;
+margin-left: 5%;
+margin-top: 30px;
+
+
+}
+#but1{
+   height: 70px;
+  width: 350px;
+  background-color: rgb(100, 96, 96);
+  border-radius: 4px;
+  margin-left: 30%;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+
+}
